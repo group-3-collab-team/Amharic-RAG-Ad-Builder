@@ -1,12 +1,6 @@
-# PromptlyTech-RAG-LLM-Prompt-Service backend 
+# Amharic-RAG-Ad-Builder Backend
 
-Certainly! Below is a template for a README file for a Flask backend for the "PromptlyTech-RAG-LLM-Prompt-Service" project. Please make sure to replace placeholder information with your actual project details.
-
----
-
-# PromptlyTech-RAG-LLM-Prompt-Service Backend
-
-This repository contains the Flask backend for the "PromptlyTech-RAG-LLM-Prompt-Service" project. This backend is responsible for handling requests and managing the business logic associated with the prompt service.
+This repository contains the Flask backend for the "Amharic-RAG-Ad-Builder" project. This backend is responsible for handling requests and managing the business logic associated with the prompt service.
 
 ## Table of Contents
 
@@ -28,8 +22,8 @@ Provide step-by-step instructions on how to set up the backend locally. Include 
 
 ```bash
 # Example installation steps
-git clone https://github.com/birehan/PromptlyTech-RAG-LLM-Prompt-Service.git
-cd PromptlyTech-RAG-LLM-Prompt-Service/backend
+https://github.com/group-3-collab-team/Amharic-RAG-Ad-Builder.git
+cd Amharic-RAG-Ad-Builder/backend
 pip install -r requirements.txt
 ```
 
